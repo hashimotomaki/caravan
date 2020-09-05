@@ -231,3 +231,29 @@ footer {
 .footer-text {
   color: #fff;
 }
+
+@media screen and (max-width:425px){
+
+  header{
+    width:100%;
+  }
+
+  .main-visual{
+    width:100%;
+  }
+
+.mav{
+  display:block;
+}
+
+main{
+  width:50%;
+}
+
+.blog{
+  width:100%;
+}
+
+}
+
+}
